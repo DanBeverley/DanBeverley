@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanBeverley
 - 👀 I’m interested in A.I and Machine Learning
-- 🌱 I’m currently learning Deep Learning in general
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me : Email - hoap43431@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Math might be the universal language !
