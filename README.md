@@ -37,7 +37,7 @@
 | Project                                                    | Description                                               | Tech                         |
 |------------------------------------------------------------|-----------------------------------------------------------|------------------------------|
 | [Food-Detection](https://github.com/DanBeverley/Food-Detection)                  | Detects & segments food items in images                   | Python, PyTorch, OpenCV      |
-| [Data-Insight-App](https://github.com/DanBeverley/Data-Insight-App)             | “Data Scientist in a Box” – auto insights & visual reports | Python, Pandas, Matplotlib   |
+| [Data-Insight](https://github.com/DanBeverley/Data-Insight)             | “Data Scientist in a Box” – auto insights & visual reports | Python, Pandas, Matplotlib   |
 | [Image-Captioning-Attention](https://github.com/DanBeverley/Image-Captioning-with-Attention-Mechanism) | Sequence-to-sequence caption generator with attention     | Python, PyTorch, Transformers|
 
 ---
