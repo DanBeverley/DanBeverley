@@ -51,7 +51,7 @@
 
 ## 🤝 Let’s Collaborate!
 I’m available for freelance AI/ML projects, consulting, or open-source collaborations.  
-📧 hoap3431@gmail.com | 💼 [Portfolio Site](https://danbeverley.dev)
+📧 hoap3431@gmail.com 
 
 ---
 
