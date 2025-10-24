@@ -1,7 +1,7 @@
 <!-- HEADER / HERO -->
 <h1 align="center">Hi 👋, I'm Dan "Dan Beverley" Phan Ngọc Hòa</h1>
 <p align="center">
-  <strong>Self-Taught AI Engineer</strong> • Computer Vision & Data Insights • Python 🐍
+  <strong>AI Engineer</strong> • Computer Vision & Data Insights • Python 🐍
 </p>
 
 <!-- BADGES -->
