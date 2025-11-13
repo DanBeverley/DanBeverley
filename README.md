@@ -1,5 +1,5 @@
 <!-- HEADER / HERO -->
-<h1 align="center">Hi 👋, I'm Dan "Dan Beverley" Phan Ngọc Hòa</h1>
+<h1 align="center">Hi 👋, I'm Dan Beverley or Phan Ngọc Hòa</h1>
 <p align="center">
   <strong>AI Engineer</strong> • Computer Vision & Data Insights • Python 🐍
 </p>
